@@ -9,6 +9,7 @@ The code requirements are:
 - python 3.7.3
 - pytorch (1.5.1)
 - matplotlib, psutil, scipy, tqdm
+- dvipng, font-manager
 
 The packages can be installed as follows: you can create a virtual environment in Python3 with:
 ```
