@@ -23,6 +23,11 @@ Install the required packages with:
 ```
 pip3 install torch matplotlib scipy psutil tqdm
 ```
+and also:
+```
+sudo apt-get install -y dvipng
+sudo apt-get install font-manager
+```
 The code is ready to run.
 In the following you can test the code on the identification of the Lyapunov exponents of the three dimensional Lorenz system.
 
